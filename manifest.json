@@ -4,6 +4,7 @@
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c1/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c2/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
