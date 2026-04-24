@@ -5,6 +5,14 @@
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c1/ClassPlans.json",
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c2/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c3/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c4/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c5/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c6/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c7/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c8/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c9/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c10/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
