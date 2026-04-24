@@ -13,5 +13,9 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/Subjects.json",
         "Version": 1
+    },
+    "PolicySource":{
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
     }
 }
