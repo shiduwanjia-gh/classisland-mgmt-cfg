@@ -3,14 +3,14 @@
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 3
+        "Version": 4
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 3
+        "Version": 4
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 2
+        "Version": 4
     }
 }
