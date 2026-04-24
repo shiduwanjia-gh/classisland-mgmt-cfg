@@ -3,8 +3,7 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c1/ClassPlans.json",
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/c2/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/{id}/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
