@@ -1,0 +1,349 @@
+{
+    "Name": "",
+    "TimeLayouts": {
+    "793c03b7-03b2-44c6-abac-feb0e38c4fe1": {
+      "Name": "新时间表",
+      "Layouts": [
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "07:40:00",
+          "EndTime": "08:10:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "早读",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "08:10:00",
+          "EndTime": "08:15:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "08:15:00",
+          "EndTime": "09:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "09:00:00",
+          "EndTime": "09:15:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "09:15:00",
+          "EndTime": "10:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "10:00:00",
+          "EndTime": "10:15:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "10:15:00",
+          "EndTime": "11:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "11:00:00",
+          "EndTime": "11:15:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "11:15:00",
+          "EndTime": "12:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "12:00:00",
+          "EndTime": "14:30:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "午餐/午休",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "14:30:00",
+          "EndTime": "15:10:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "15:10:00",
+          "EndTime": "15:25:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "15:25:00",
+          "EndTime": "16:05:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "16:05:00",
+          "EndTime": "16:20:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "16:20:00",
+          "EndTime": "17:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "17:00:00",
+          "EndTime": "17:40:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "晚餐",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "17:40:00",
+          "EndTime": "18:00:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "听力/阅读",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+    "ClassPlans": {},
+    "Subjects": {}
+}
