@@ -16,6 +16,6 @@
     },
     "PolicySource":{
         "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/policy.json",
-        "Version": 4
+        "Version": 5
     }
 }
