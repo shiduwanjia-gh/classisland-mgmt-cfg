@@ -3,19 +3,19 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/{id}/ClassPlans.json",
+        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/{id}/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/TimeLayouts.json",
+        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/TimeLayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/Subjects.json",
+        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/Subjects.json",
         "Version": 1
     },
     "PolicySource":{
-        "Value": "https://raw.githubusercontent.com/shiduwanjia-gh/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/policy.json",
         "Version": 5
     }
 }
