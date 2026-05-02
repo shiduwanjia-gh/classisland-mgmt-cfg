@@ -3,19 +3,19 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
-        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/{id}/ClassPlans.json",
+        "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/TimeLayouts.json",
+        "Value": "https://classisland-mgmt-cfg.netlify.app/TimeLayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/Subjects.json",
+        "Value": "https://classisland-mgmt-cfg.netlify.app/Subjects.json",
         "Version": 1
     },
     "PolicySource":{
-        "Value": "https://devserver-main--remarkable-lokum-ec8865.netlify.app/policy.json",
+        "Value": "https://classisland-mgmt-cfg.netlify.app/policy.json",
         "Version": 5
     }
 }
