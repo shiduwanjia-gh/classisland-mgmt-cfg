@@ -3,7 +3,7 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
-        "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/ClassPlans.json",
+        "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/cl.json",
         "Version": 1
     },
     "TimeLayoutSource": {
