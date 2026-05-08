@@ -4,7 +4,7 @@
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/cl.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/TimeLayouts.json",
