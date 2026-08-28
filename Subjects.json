@@ -2,7 +2,7 @@
     "Name": "",
     "TimeLayouts": {},
     "ClassPlans": {},
-    "Subjects": {
+  "Subjects": {
     "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
       "Name": "语文",
       "Initial": "语",
@@ -212,31 +212,26 @@
 
       },
       "IsActive": false
-    }
-  },
-  "IsOverlayClassPlanEnabled": false,
-  "OverlayClassPlanId": null,
-  "TempClassPlanId": null,
-  "TempClassPlanSetupTime": "2026-03-06T17:14:10.5854419+08:00",
-  "ClassPlanGroups": {
-    "acaf4ef0-e261-4262-b941-34ea93cb4369": {
-      "Name": "默认",
-      "IsGlobal": false,
+    },
+    "ef5ffdb7-c636-46cd-aff0-182ca864437e": {
+      "Name": "家长会",
+      "Initial": "家长会",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
       "IsActive": false
     },
-    "00000000-0000-0000-0000-000000000000": {
-      "Name": "全局课表群",
-      "IsGlobal": true,
+    "b8ac9d62-6e04-430f-90d9-08115ec95a24": {
+      "Name": "该实例仍处于SDWJ的集控中，请等待接管或更新",
+      "Initial": "info",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
       "IsActive": false
     }
-  },
-  "SelectedClassPlanGroupId": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-  "TempClassPlanGroupId": null,
-  "TempClassPlanGroupExpireTime": "2026-03-06T17:14:10.5857202+08:00",
-  "IsTempClassPlanGroupEnabled": false,
-  "TempClassPlanGroupType": 1,
-  "Id": "572b153c-1b5f-48dd-b63d-d3c219aa8fd1",
-  "OrderedSchedules": {
-
   }
 }
