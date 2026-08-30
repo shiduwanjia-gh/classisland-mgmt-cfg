@@ -4,18 +4,18 @@
     "OrganizationName": "sdwj",
     "ClassPlanSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/classplans.json",
-        "Version": 6
+        "Version": 7
     },
     "TimeLayoutSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/TimeLayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/Subjects.json",
-        "Version": 2
+        "Version": 3
     },
     "PolicySource":{
         "Value": "https://classisland-mgmt-cfg.netlify.app/policy.json",
-        "Version": 5
+        "Version": 6
     }
 }
