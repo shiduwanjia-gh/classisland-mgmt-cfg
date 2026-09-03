@@ -212,26 +212,6 @@
 
       },
       "IsActive": false
-    },
-    "ef5ffdb7-c636-46cd-aff0-182ca864437e": {
-      "Name": "家长会",
-      "Initial": "家长会",
-      "TeacherName": "",
-      "IsOutDoor": false,
-      "AttachedObjects": {
-
-      },
-      "IsActive": false
-    },
-    "b8ac9d62-6e04-430f-90d9-08115ec95a24": {
-      "Name": "该实例仍处于SDWJ的集控中，请等待接管或更新",
-      "Initial": "info",
-      "TeacherName": "",
-      "IsOutDoor": false,
-      "AttachedObjects": {
-
-      },
-      "IsActive": false
     }
   }
 }
