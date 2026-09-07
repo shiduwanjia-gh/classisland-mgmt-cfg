@@ -13,5 +13,9 @@
     "SubjectsSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/Subjects.json",
         "Version": 2
+    },
+  "PolicySource": {
+        "Value": "https://classisland-mgmt-cfg.netlify.app/policy.json",
+        "Version": 2
     }
 }
