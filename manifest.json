@@ -1,0 +1,17 @@
+{
+    "ServerKind": 0,
+    "CoreVersion": "2.0.0.0",
+    "OrganizationName": "Hello",
+    "ClassPlanSource": {
+        "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/manifest.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://classisland-mgmt-cfg.netlify.app/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://classisland-mgmt-cfg.netlify.app/subjects.json",
+        "Version": 1
+    }
+}
