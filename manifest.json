@@ -1,7 +1,7 @@
 {
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
-    "OrganizationName": "Hello",
+    "OrganizationName": "sdwj",
     "ClassPlanSource": {
         "Value": "https://classisland-mgmt-cfg.netlify.app/{id}/manifest.json",
         "Version": 1
