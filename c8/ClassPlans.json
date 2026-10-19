@@ -1,8 +1,8 @@
 {
-    "Name": "",
+    "Name": "西农大附中2026-2027初三8班课表",
     "TimeLayouts": {},
     "ClassPlans": {
-        "32d914b6-12c2-462e-b81c-30b9240bb999": {
+        "9e81e2a6-0296-4469-85df-eb016870b8a6": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 1,
@@ -98,7 +98,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "45d2716a-3c5a-4c98-b620-21996fa89200": {
+        "45b0adfb-7dff-45b5-9f16-0e5038549210": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 2,
@@ -129,7 +129,7 @@
                     "IsActive": false
                 },
                 {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
                     "IsChangedClass": false,
                     "IsEnabled": true,
                     "AttachedObjects": {},
@@ -157,7 +157,7 @@
                     "IsActive": false
                 },
                 {
-                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsChangedClass": false,
                     "IsEnabled": true,
                     "AttachedObjects": {},
@@ -194,7 +194,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "7c3cdea2-eaee-4a38-a683-e18d958d1804": {
+        "61fe5084-4c62-4f2f-afd9-39ff4cd5e7ed": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 3,
@@ -290,7 +290,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "e78b5da9-a0c9-4f59-b92c-82601dfaf753": {
+        "2a9d3d59-0231-4d1d-a3cb-e7f9bfa3b610": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 4,
@@ -321,7 +321,7 @@
                     "IsActive": false
                 },
                 {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
                     "IsChangedClass": false,
                     "IsEnabled": true,
                     "AttachedObjects": {},
@@ -329,13 +329,6 @@
                 },
                 {
                     "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsChangedClass": false,
-                    "IsEnabled": true,
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
                     "IsChangedClass": false,
                     "IsEnabled": true,
                     "AttachedObjects": {},
@@ -350,6 +343,13 @@
                 },
                 {
                     "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsChangedClass": false,
+                    "IsEnabled": true,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsChangedClass": false,
                     "IsEnabled": true,
                     "AttachedObjects": {},
@@ -386,7 +386,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "98f6da71-3dfb-4412-81c0-157ea628d2e4": {
+        "6f51c847-4411-4420-80c7-e19002407e8e": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 5,
@@ -482,7 +482,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "dbec5600-e510-4cd7-961f-236138c50f9e": {
+        "dc8650eb-6d40-4f59-9a79-f4938997089e": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 5,
@@ -572,7 +572,7 @@
             "Name": "周五 双周",
             "IsOverlay": false,
             "OverlaySourceId": null,
-            "OverlaySetupTime": "2026-09-01T18:15:03.9189779+08:00",
+            "OverlaySetupTime": "2026-09-06T15:31:50.4818454+08:00",
             "IsEnabled": true,
             "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
             "AttachedObjects": {},

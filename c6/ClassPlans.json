@@ -1,8 +1,8 @@
 {
-    "Name": "",
+    "Name": "西农大附中2026-2027初三6班课表",
     "TimeLayouts": {},
     "ClassPlans": {
-        "32d914b6-12c2-462e-b81c-30b9240bb999": {
+        "21ba39b8-70b6-4355-af23-43cd1d9942d2": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 1,
@@ -98,7 +98,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "45d2716a-3c5a-4c98-b620-21996fa89200": {
+        "36d74241-cec4-4616-bbf2-75fab5d96f2a": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 2,
@@ -194,7 +194,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "7c3cdea2-eaee-4a38-a683-e18d958d1804": {
+        "9cb82dd6-fe6e-4f8a-8c02-08285e478bf1": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 3,
@@ -290,7 +290,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "e78b5da9-a0c9-4f59-b92c-82601dfaf753": {
+        "f9fbb866-1404-4bde-bd7f-1787da84e476": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 4,
@@ -386,7 +386,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "98f6da71-3dfb-4412-81c0-157ea628d2e4": {
+        "8c7bf72a-9a32-4b09-9232-8780fe69409f": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 5,
@@ -482,7 +482,7 @@
             "AttachedObjects": {},
             "IsActive": false
         },
-        "74b52550-578d-44b7-b850-0995fa169752": {
+        "7dbe7ff5-a5b3-47b0-a34c-2f2798a736ed": {
             "TimeLayoutId": "71f46de3-a016-45ab-98b7-eaf94b1ab7d1",
             "TimeRule": {
                 "WeekDay": 5,
